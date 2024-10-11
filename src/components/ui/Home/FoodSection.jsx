@@ -8,7 +8,7 @@ export default function FoodSection() {
 
   const [foods, setFoods] = useState([]);
   useEffect(() => {
-    fetch("/public/fake.json")
+    fetch("/fake.json")
       .then((res) => res.json())
       .then(data => setFoods(data.foods))
     // .then(data => console.log(data))
