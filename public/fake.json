@@ -2,122 +2,122 @@
     "foods": [
             {
               "id": 1,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Grilled Chicken Salad",
               "description": "A healthy grilled chicken salad with fresh greens and a light vinaigrette.",
-              "descriptionImage": "/public/discription.png",
+              "descriptionImage": "/discription.png",
               "price": 12.99
             },
             {
               "id": 2,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Spaghetti Carbonara",
               "description": "Classic Italian pasta with eggs, cheese, pancetta, and pepper.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 14.50
             },
             {
               "id": 3,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Beef Tacos",
               "description": "Soft tortillas filled with seasoned beef, lettuce, cheese, and salsa.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 9.99
             },
             {
               "id": 4,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Margherita Pizza",
               "description": "A classic pizza topped with fresh tomatoes, mozzarella, and basil.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 11.25
             },
             {
               "id": 5,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Teriyaki Salmon Bowl",
               "description": "Grilled salmon with teriyaki sauce served over steamed rice and vegetables.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 16.75
             },
             {
               "id": 6,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Chicken Alfredo",
               "description": "Creamy Alfredo sauce with tender chicken over fettuccine pasta.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 13.50
             },
             {
               "id": 7,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Vegetarian Burger",
               "description": "A delicious veggie patty served with lettuce, tomato, and avocado.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 10.00
             },
             {
               "id": 8,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Seafood Paella",
               "description": "A traditional Spanish dish with rice, shrimp, mussels, and squid.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 18.50
             },
             {
               "id": 9,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "BBQ Ribs",
               "description": "Juicy pork ribs slow-cooked and smothered in BBQ sauce.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 17.00
             },
             {
               "id": 10,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Thai Green Curry",
               "description": "Spicy green curry with chicken, coconut milk, and fresh vegetables.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 15.00
             },
             {
               "id": 11,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Sushi Platter",
               "description": "An assortment of fresh sushi rolls, nigiri, and sashimi.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 22.99
             },
             {
               "id": 12,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Buffalo Wings",
               "description": "Crispy chicken wings tossed in spicy buffalo sauce with a side of blue cheese dip.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 8.99
             },
             {
               "id": 13,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Pad Thai",
               "description": "A traditional Thai dish of stir-fried rice noodles with shrimp, peanuts, and lime.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 12.75
             },
             {
               "id": 14,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Falafel Wrap",
               "description": "Crispy falafel served in a pita wrap with hummus, lettuce, and tahini sauce.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 9.50
             },
             {
               "id": 15,
-              "image": "/public/food.png",
+              "image": "/food.png",
               "title": "Chocolate Lava Cake",
               "description": "A rich chocolate cake with a gooey molten center served with vanilla ice cream.",
-               "descriptionImage": "/public/discription.png",
+               "descriptionImage": "/discription.png",
               "price": 6.50
             }
           ]
